@@ -84,7 +84,6 @@ For XDEAT, the workflow is similar:
 ![](Tables/Main_Results.png)
 
 ---
-### Target Encoding
 ### 🎯 Target Encoding
 
 In this experiment, we evaluate different **target encoding techniques** in **FT-Transformer** and **XGBoost** to compare their performance.  

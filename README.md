@@ -1,4 +1,4 @@
-# XDEAT-Tabular-Learning ( Thesis )
+# XDEAT Tabular Learning ( Thesis )
 Abstract: A novel framework, XDEAT (Cross-Dimensional and Cross-Encoding Attention with Target-Aware Conditioning), is proposed for supervised learning on tabular data.  At its core, XDEAT employs a dual-stream encoder that decomposes each input feature into two parallel representations: a raw value stream and a target-conditioned (label-aware) stream. These dual representations are then propagated through a hierarchical stack of attention-based modules. XDEAT integrates two key components: (i) cross-dimensional self-attention, which captures intra-view dependencies among features within each stream; (ii) cross-encoding self-attention, which enables bidirectional interaction between raw and target-aware representations. Performance improvements over strong baselines are consistently observed across multiple benchmark datasets, demonstrating the effectiveness of jointly modeling raw and target-aware views through attention-based mechanisms.
 ![](Tables/XDEAT_Pipeline.png)
 

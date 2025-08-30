@@ -1,0 +1,58 @@
+[
+    {
+        "train_max_acc": 0.9231601731601732,
+        "valid_max_acc": 0.9011124845488258,
+        "params": {
+            "n_cross_layers": 4,
+            "n_hidden_layers": 1,
+            "layer_size": 208,
+            "hidden_dropout": 0.08461085848841787,
+            "cross_dropout": 0.22640374579087053,
+            "lr": 0.0024365276153903077,
+            "weight_decay": 1.9432214866566014e-06,
+            "d_embedding": 476
+        }
+    },
+    {
+        "train_max_acc": 0.9199134199134199,
+        "valid_max_acc": 0.904202719406675,
+        "params": {
+            "n_cross_layers": 4,
+            "n_hidden_layers": 8,
+            "layer_size": 99,
+            "hidden_dropout": 0.1554253983454173,
+            "cross_dropout": 0.2610807812063741,
+            "lr": 0.0021019692719582784,
+            "weight_decay": 3.549175991190265e-06,
+            "d_embedding": 341
+        }
+    },
+    {
+        "train_max_acc": 0.930117501546073,
+        "valid_max_acc": 0.8974042027194067,
+        "params": {
+            "n_cross_layers": 7,
+            "n_hidden_layers": 6,
+            "layer_size": 410,
+            "hidden_dropout": 0.2052345170111891,
+            "cross_dropout": 0.32058014073506175,
+            "lr": 0.0032416883453718617,
+            "weight_decay": 0.00010917975069350312,
+            "d_embedding": 402
+        }
+    },
+    {
+        "train_max_acc": 0.9206864564007421,
+        "valid_max_acc": 0.9017305315203955,
+        "params": {
+            "n_cross_layers": 2,
+            "n_hidden_layers": 2,
+            "layer_size": 234,
+            "hidden_dropout": 0.32068681583585734,
+            "cross_dropout": 0.08377195873979809,
+            "lr": 0.007301534886314094,
+            "weight_decay": 6.091045597571409e-05,
+            "d_embedding": 259
+        }
+    }
+]

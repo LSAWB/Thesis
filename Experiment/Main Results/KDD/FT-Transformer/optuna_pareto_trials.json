@@ -1,0 +1,72 @@
+[
+    {
+        "train_max_acc": 0.91852195423624,
+        "valid_max_acc": 0.9048207663782447,
+        "params": {
+            "n_blocks": 4,
+            "dim_model": 392,
+            "ffn_factor": 1.3227086422280556,
+            "residual_dropout": 0.09885299623893662,
+            "attention_dropout": 0.04301500459922086,
+            "ffn_dropout": 0.05557962164512753,
+            "lr": 2.4961802873007986e-05,
+            "weight_decay": 1.4987988093324843e-06
+        }
+    },
+    {
+        "train_max_acc": 0.9087816944959802,
+        "valid_max_acc": 0.9091470951792336,
+        "params": {
+            "n_blocks": 3,
+            "dim_model": 464,
+            "ffn_factor": 2.200418598268176,
+            "residual_dropout": 0.10727253788355529,
+            "attention_dropout": 0.04460684489992528,
+            "ffn_dropout": 0.042992177462273684,
+            "lr": 0.00011489350803572413,
+            "weight_decay": 4.263371222348897e-06
+        }
+    },
+    {
+        "train_max_acc": 0.9254792826221397,
+        "valid_max_acc": 0.904202719406675,
+        "params": {
+            "n_blocks": 3,
+            "dim_model": 224,
+            "ffn_factor": 1.5519077079667678,
+            "residual_dropout": 0.06271984400774928,
+            "attention_dropout": 0.014844526968248228,
+            "ffn_dropout": 0.2900552265832624,
+            "lr": 8.317654981962457e-05,
+            "weight_decay": 1.715412649362193e-05
+        }
+    },
+    {
+        "train_max_acc": 0.9183673469387755,
+        "valid_max_acc": 0.9066749072929543,
+        "params": {
+            "n_blocks": 4,
+            "dim_model": 424,
+            "ffn_factor": 2.5496299410887118,
+            "residual_dropout": 0.035062969299525015,
+            "attention_dropout": 0.07763187749258743,
+            "ffn_dropout": 0.027939207468686444,
+            "lr": 2.611953674750153e-05,
+            "weight_decay": 6.187861203195727e-05
+        }
+    },
+    {
+        "train_max_acc": 0.91573902288188,
+        "valid_max_acc": 0.9079110012360939,
+        "params": {
+            "n_blocks": 2,
+            "dim_model": 144,
+            "ffn_factor": 1.6464058750393336,
+            "residual_dropout": 0.12034953902901357,
+            "attention_dropout": 0.27379413070773645,
+            "ffn_dropout": 0.3559626085471593,
+            "lr": 0.00010907571752305717,
+            "weight_decay": 2.2454860621973057e-06
+        }
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_blocks": 6,
+            "d_block": 386,
+            "hidden_factor": 3.5835909308228775,
+            "residual_dropout": 0.13464960829080158,
+            "hidden_dropout": 0.07604387125003387,
+            "lr": 0.001857544552869678,
+            "weight_decay": 8.513903737694907e-05
+        },
+        "test_mean_rmse": 0.5884760618209839,
+        "test_std_rmse": 0.009042758494615555
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_blocks": 4,
+            "d_block": 291,
+            "hidden_factor": 3.6927986536720896,
+            "residual_dropout": 0.0016911096943970638,
+            "hidden_dropout": 0.0523270930821812,
+            "lr": 2.7552259049264515e-05,
+            "weight_decay": 5.78038797876989e-05
+        },
+        "test_mean_rmse": 0.597671389579773,
+        "test_std_rmse": 0.008940818719565868
+    },
+    {
+        "trial_id": 2,
+        "params": {
+            "n_blocks": 5,
+            "d_block": 268,
+            "hidden_factor": 1.555587156992034,
+            "residual_dropout": 0.14995396638346276,
+            "hidden_dropout": 0.045503435883920196,
+            "lr": 0.0006954919901761689,
+            "weight_decay": 3.6272792838939094e-05
+        },
+        "test_mean_rmse": 0.5888091921806335,
+        "test_std_rmse": 0.008295197039842606
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "train_max_acc": 0.8575322481572482,
+        "valid_max_acc": 0.8481498541378781,
+        "params": {
+            "n_layers": 2,
+            "d_token": 54,
+            "residual_dropout": 0.03456385512282543,
+            "attention_dropout": 0.05272564792723644,
+            "lr": 0.00045052088588728247,
+            "weight_decay": 7.876985462516929e-05
+        }
+    },
+    {
+        "train_max_acc": 0.8546529484029484,
+        "valid_max_acc": 0.8507600184246891,
+        "params": {
+            "n_layers": 5,
+            "d_token": 34,
+            "residual_dropout": 0.06816822470656746,
+            "attention_dropout": 0.09073872236040464,
+            "lr": 0.0002019321608247622,
+            "weight_decay": 6.9081075313201525e-06
+        }
+    },
+    {
+        "train_max_acc": 0.8499308968058968,
+        "valid_max_acc": 0.8516812528788577,
+        "params": {
+            "n_layers": 3,
+            "d_token": 48,
+            "residual_dropout": 0.14656716460114355,
+            "attention_dropout": 0.16576273355976306,
+            "lr": 0.00013085936070040793,
+            "weight_decay": 5.4572241151780314e-06
+        }
+    },
+    {
+        "train_max_acc": 0.8548832923832924,
+        "valid_max_acc": 0.85014586212191,
+        "params": {
+            "n_layers": 1,
+            "d_token": 52,
+            "residual_dropout": 0.12730812344096862,
+            "attention_dropout": 0.10822262959815332,
+            "lr": 0.00030556669038752624,
+            "weight_decay": 0.0004258408071629093
+        }
+    }
+]

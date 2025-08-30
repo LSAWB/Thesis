@@ -1,0 +1,14 @@
+[
+    {
+        "train_min_rmse": 0.5733712315559387,
+        "valid_min_rmse": 0.5976911187171936,
+        "params": {
+            "n_layers": 2,
+            "d_token": 44,
+            "residual_dropout": 0.04469800988839674,
+            "attention_dropout": 0.16536164074349957,
+            "lr": 0.0005445289998291196,
+            "weight_decay": 2.3035915040050877e-05
+        }
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_layers": 2,
+            "d_token": 54,
+            "residual_dropout": 0.03456385512282543,
+            "attention_dropout": 0.05272564792723644,
+            "lr": 0.00045052088588728247,
+            "weight_decay": 7.876985462516929e-05
+        },
+        "test_mean_accuarcy": 0.8495956431832608,
+        "test_std_accuarcy": 0.0024294136312568273
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_layers": 5,
+            "d_token": 34,
+            "residual_dropout": 0.06816822470656746,
+            "attention_dropout": 0.09073872236040464,
+            "lr": 0.0002019321608247622,
+            "weight_decay": 6.9081075313201525e-06
+        },
+        "test_mean_accuarcy": 0.8496857277399013,
+        "test_std_accuarcy": 0.0017782450176595996
+    },
+    {
+        "trial_id": 2,
+        "params": {
+            "n_layers": 3,
+            "d_token": 48,
+            "residual_dropout": 0.14656716460114355,
+            "attention_dropout": 0.16576273355976306,
+            "lr": 0.00013085936070040793,
+            "weight_decay": 5.4572241151780314e-06
+        },
+        "test_mean_accuarcy": 0.8494236635751286,
+        "test_std_accuarcy": 0.001930084115108599
+    },
+    {
+        "trial_id": 3,
+        "params": {
+            "n_layers": 1,
+            "d_token": 52,
+            "residual_dropout": 0.12730812344096862,
+            "attention_dropout": 0.10822262959815332,
+            "lr": 0.00030556669038752624,
+            "weight_decay": 0.0004258408071629093
+        },
+        "test_mean_accuarcy": 0.8503326986466845,
+        "test_std_accuarcy": 0.001617370250410253
+    }
+]

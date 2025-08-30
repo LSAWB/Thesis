@@ -1,0 +1,72 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_blocks": 5,
+            "d_block": 497,
+            "hidden_factor": 1.5366396240576485,
+            "residual_dropout": 0.027493841069573977,
+            "hidden_dropout": 0.333995736364753,
+            "lr": 0.0009651396338084343,
+            "weight_decay": 0.0007282456587136812
+        },
+        "test_mean_accuarcy": 0.713441213351645,
+        "test_std_accuarcy": 0.0034225033882773997
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_blocks": 5,
+            "d_block": 189,
+            "hidden_factor": 3.2297962633340664,
+            "residual_dropout": 0.4155846291915329,
+            "hidden_dropout": 0.32990381812083114,
+            "lr": 0.0009642295289956492,
+            "weight_decay": 0.0008667396665822612
+        },
+        "test_mean_accuarcy": 0.7193328158277106,
+        "test_std_accuarcy": 0.003025443677151719
+    },
+    {
+        "trial_id": 2,
+        "params": {
+            "n_blocks": 7,
+            "d_block": 436,
+            "hidden_factor": 1.773957577611041,
+            "residual_dropout": 0.44762462879371767,
+            "hidden_dropout": 0.14346378583330477,
+            "lr": 0.005613139507578559,
+            "weight_decay": 0.0009697583001063889
+        },
+        "test_mean_accuarcy": 0.7261758324874107,
+        "test_std_accuarcy": 0.003915800415579818
+    },
+    {
+        "trial_id": 3,
+        "params": {
+            "n_blocks": 6,
+            "d_block": 474,
+            "hidden_factor": 3.364856367089454,
+            "residual_dropout": 0.3873532864399365,
+            "hidden_dropout": 0.09947764631471134,
+            "lr": 0.001846157363680378,
+            "weight_decay": 0.0002944799308777152
+        },
+        "test_mean_accuarcy": 0.7207022153221472,
+        "test_std_accuarcy": 0.0032221572660136215
+    },
+    {
+        "trial_id": 4,
+        "params": {
+            "n_blocks": 1,
+            "d_block": 497,
+            "hidden_factor": 2.6147179767641404,
+            "residual_dropout": 0.02967526109118923,
+            "hidden_dropout": 0.26338444529953486,
+            "lr": 0.0007048568736415097,
+            "weight_decay": 7.584325327432838e-06
+        },
+        "test_mean_accuarcy": 0.708950856869887,
+        "test_std_accuarcy": 0.0031633711190748016
+    }
+]

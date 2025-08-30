@@ -1,0 +1,30 @@
+[
+    {
+        "train_min_rmse": 0.5441553592681885,
+        "valid_min_rmse": 0.602921724319458,
+        "params": {
+            "n_cross_layers": 2,
+            "n_hidden_layers": 2,
+            "layer_size": 449,
+            "hidden_dropout": 0.018499127590292097,
+            "cross_dropout": 0.04397506153993991,
+            "lr": 0.0005084267275904744,
+            "weight_decay": 0.0007931535322369975,
+            "d_embedding": 309
+        }
+    },
+    {
+        "train_min_rmse": 0.5599939227104187,
+        "valid_min_rmse": 0.5993687510490417,
+        "params": {
+            "n_cross_layers": 2,
+            "n_hidden_layers": 7,
+            "layer_size": 387,
+            "hidden_dropout": 0.12918885166786015,
+            "cross_dropout": 0.12203228218708956,
+            "lr": 0.00046745205631067166,
+            "weight_decay": 0.0004237907106451215,
+            "d_embedding": 334
+        }
+    }
+]

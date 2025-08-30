@@ -1,0 +1,26 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_layers": 2,
+            "layer_size": 196,
+            "dropout": 0.09388623443044847,
+            "weight_decay": 8.766454072503871e-06,
+            "lr": 0.000900899735516188
+        },
+        "test_mean_accuarcy": 0.7079556537489303,
+        "test_std_accuarcy": 0.0037906574891435553
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_layers": 2,
+            "layer_size": 279,
+            "dropout": 0.3967112335954872,
+            "weight_decay": 0.00024342954312228557,
+            "lr": 0.0017393845849929645
+        },
+        "test_mean_accuarcy": 0.7154913317808165,
+        "test_std_accuarcy": 0.0037267081467965424
+    }
+]

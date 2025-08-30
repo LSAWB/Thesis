@@ -1,0 +1,72 @@
+[
+    {
+        "train_max_acc": 0.8585687960687961,
+        "valid_max_acc": 0.8487640104406572,
+        "params": {
+            "n_cross_layers": 2,
+            "n_hidden_layers": 4,
+            "layer_size": 376,
+            "hidden_dropout": 0.013928106312931843,
+            "cross_dropout": 0.0936045126228281,
+            "lr": 0.0001038231101677719,
+            "weight_decay": 9.485138812536428e-06,
+            "d_embedding": 278
+        }
+    },
+    {
+        "train_max_acc": 0.8567260442260443,
+        "valid_max_acc": 0.8496852448948258,
+        "params": {
+            "n_cross_layers": 2,
+            "n_hidden_layers": 4,
+            "layer_size": 480,
+            "hidden_dropout": 0.4676863253854342,
+            "cross_dropout": 0.3051959918680541,
+            "lr": 2.3562560732621928e-05,
+            "weight_decay": 0.0008063960216135368,
+            "d_embedding": 212
+        }
+    },
+    {
+        "train_max_acc": 0.8547297297297297,
+        "valid_max_acc": 0.8498387839705205,
+        "params": {
+            "n_cross_layers": 1,
+            "n_hidden_layers": 1,
+            "layer_size": 417,
+            "hidden_dropout": 0.11402372956894014,
+            "cross_dropout": 0.0464055245137146,
+            "lr": 0.0014930401431442906,
+            "weight_decay": 4.5351034148529646e-05,
+            "d_embedding": 169
+        }
+    },
+    {
+        "train_max_acc": 0.8579161547911548,
+        "valid_max_acc": 0.8492246276677414,
+        "params": {
+            "n_cross_layers": 8,
+            "n_hidden_layers": 3,
+            "layer_size": 431,
+            "hidden_dropout": 0.22847623402839495,
+            "cross_dropout": 0.21155002555130503,
+            "lr": 0.00015157523489628088,
+            "weight_decay": 1.0068368672292687e-05,
+            "d_embedding": 258
+        }
+    },
+    {
+        "train_max_acc": 0.8536547911547911,
+        "valid_max_acc": 0.8507600184246891,
+        "params": {
+            "n_cross_layers": 7,
+            "n_hidden_layers": 1,
+            "layer_size": 443,
+            "hidden_dropout": 0.39662984842627513,
+            "cross_dropout": 0.2280155304172533,
+            "lr": 0.0010935746489517848,
+            "weight_decay": 4.449269409878172e-05,
+            "d_embedding": 434
+        }
+    }
+]

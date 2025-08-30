@@ -1,0 +1,74 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_layers": 7,
+            "layer_size": 338,
+            "dropout": 0.045007422862150204,
+            "weight_decay": 1.471127980075263e-05,
+            "lr": 8.534292816822632e-05
+        },
+        "test_mean_accuarcy": 0.8499846446778455,
+        "test_std_accuarcy": 0.0022287042753986216
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_layers": 6,
+            "layer_size": 251,
+            "dropout": 0.1594554945063152,
+            "weight_decay": 3.45828704482255e-05,
+            "lr": 0.0017801652534504627
+        },
+        "test_mean_accuarcy": 0.8495669799152388,
+        "test_std_accuarcy": 0.0024882015960142685
+    },
+    {
+        "trial_id": 2,
+        "params": {
+            "n_layers": 3,
+            "layer_size": 257,
+            "dropout": 0.23693670431796743,
+            "weight_decay": 1.6672270053246319e-06,
+            "lr": 0.00016872809466207938
+        },
+        "test_mean_accuarcy": 0.849919128636652,
+        "test_std_accuarcy": 0.0023196186039545945
+    },
+    {
+        "trial_id": 3,
+        "params": {
+            "n_layers": 7,
+            "layer_size": 315,
+            "dropout": 0.09457646072378201,
+            "weight_decay": 0.00040829263455686895,
+            "lr": 0.0012234005236632052
+        },
+        "test_mean_accuarcy": 0.8494031898122555,
+        "test_std_accuarcy": 0.0022071665974478507
+    },
+    {
+        "trial_id": 4,
+        "params": {
+            "n_layers": 6,
+            "layer_size": 286,
+            "dropout": 0.017409156100847478,
+            "weight_decay": 0.0005384393527491563,
+            "lr": 0.00022353579427307994
+        },
+        "test_mean_accuarcy": 0.849726675265647,
+        "test_std_accuarcy": 0.0026072161378513357
+    },
+    {
+        "trial_id": 5,
+        "params": {
+            "n_layers": 6,
+            "layer_size": 96,
+            "dropout": 0.18691149131974122,
+            "weight_decay": 0.0006556956032470232,
+            "lr": 0.0007810489875108241
+        },
+        "test_mean_accuarcy": 0.8500337817087403,
+        "test_std_accuarcy": 0.002390101149956932
+    }
+]

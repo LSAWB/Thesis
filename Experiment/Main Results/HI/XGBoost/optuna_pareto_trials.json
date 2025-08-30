@@ -1,0 +1,32 @@
+[
+    {
+        "train_max_acc": 0.762298608787111,
+        "valid_max_acc": 0.7132202957674656,
+        "params": {
+            "max_depth": 10,
+            "min_child_weight": 8.120024675110322e-08,
+            "subsample": 0.9721196502925551,
+            "learning_rate": 0.09420177239741356,
+            "colsample_bylevel": 0.5712125644012873,
+            "colsample_bytree": 0.8368216286726895,
+            "gamma": 8.033012871063473,
+            "lambda": 1.3030679945407479e-05,
+            "alpha": 3.971018502998896e-05
+        }
+    },
+    {
+        "train_max_acc": 0.836703797549043,
+        "valid_max_acc": 0.704296277409485,
+        "params": {
+            "max_depth": 10,
+            "min_child_weight": 0.6817716393993697,
+            "subsample": 0.915981912586911,
+            "learning_rate": 0.245741434404877,
+            "colsample_bylevel": 0.6770590841924893,
+            "colsample_bytree": 0.8464542402140726,
+            "gamma": 0.030492561130899203,
+            "lambda": 0.00019943442292217036,
+            "alpha": 1.7063407031938837e-05
+        }
+    }
+]

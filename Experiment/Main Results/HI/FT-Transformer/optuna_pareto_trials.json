@@ -1,0 +1,30 @@
+[
+    {
+        "train_max_acc": 0.7651511529696738,
+        "valid_max_acc": 0.7336817950025497,
+        "params": {
+            "n_blocks": 1,
+            "dim_model": 480,
+            "ffn_factor": 1.0611438742669064,
+            "residual_dropout": 0.09092017297623414,
+            "attention_dropout": 0.21463264368569207,
+            "ffn_dropout": 0.1106467829778876,
+            "lr": 0.00021962762166300023,
+            "weight_decay": 1.958489272610056e-06
+        }
+    },
+    {
+        "train_max_acc": 0.7566413284250451,
+        "valid_max_acc": 0.7344467108618052,
+        "params": {
+            "n_blocks": 1,
+            "dim_model": 480,
+            "ffn_factor": 1.4406673930372755,
+            "residual_dropout": 0.06101973382556827,
+            "attention_dropout": 0.3947790193262381,
+            "ffn_dropout": 0.05122036082432768,
+            "lr": 0.0002690332666907684,
+            "weight_decay": 1.8267906022167467e-05
+        }
+    }
+]

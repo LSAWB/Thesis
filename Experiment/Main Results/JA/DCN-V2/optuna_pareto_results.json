@@ -1,0 +1,92 @@
+[
+    {
+        "trial_id": 0,
+        "params": {
+            "n_cross_layers": 1,
+            "n_hidden_layers": 5,
+            "layer_size": 327,
+            "hidden_dropout": 0.187472934156181,
+            "cross_dropout": 0.33968832370991353,
+            "lr": 0.0005934744976084137,
+            "weight_decay": 1.5676618098471013e-05,
+            "d_embedding": 138
+        },
+        "test_mean_accuarcy": 0.7080790589359288,
+        "test_std_accuarcy": 0.0031570528550465353
+    },
+    {
+        "trial_id": 1,
+        "params": {
+            "n_cross_layers": 6,
+            "n_hidden_layers": 3,
+            "layer_size": 186,
+            "hidden_dropout": 0.17647368854083578,
+            "cross_dropout": 0.2832995248182739,
+            "lr": 9.165694948263092e-05,
+            "weight_decay": 7.180638095130164e-05,
+            "d_embedding": 213
+        },
+        "test_mean_accuarcy": 0.7110368026114132,
+        "test_std_accuarcy": 0.0035645369553938605
+    },
+    {
+        "trial_id": 2,
+        "params": {
+            "n_cross_layers": 6,
+            "n_hidden_layers": 4,
+            "layer_size": 358,
+            "hidden_dropout": 0.1199608494883172,
+            "cross_dropout": 0.07862172061333095,
+            "lr": 0.0006009519780281891,
+            "weight_decay": 2.909624345467633e-05,
+            "d_embedding": 133
+        },
+        "test_mean_accuarcy": 0.7078839991242212,
+        "test_std_accuarcy": 0.00343715899742235
+    },
+    {
+        "trial_id": 3,
+        "params": {
+            "n_cross_layers": 4,
+            "n_hidden_layers": 3,
+            "layer_size": 214,
+            "hidden_dropout": 0.1487502090370839,
+            "cross_dropout": 0.170331831282371,
+            "lr": 0.0008184137911993114,
+            "weight_decay": 0.0003506948657231144,
+            "d_embedding": 244
+        },
+        "test_mean_accuarcy": 0.7080233275611555,
+        "test_std_accuarcy": 0.003049764850138784
+    },
+    {
+        "trial_id": 4,
+        "params": {
+            "n_cross_layers": 6,
+            "n_hidden_layers": 3,
+            "layer_size": 220,
+            "hidden_dropout": 0.2739465627282605,
+            "cross_dropout": 0.23989208487770353,
+            "lr": 0.0004163349903505314,
+            "weight_decay": 2.3750195753578784e-05,
+            "d_embedding": 166
+        },
+        "test_mean_accuarcy": 0.7141497979737665,
+        "test_std_accuarcy": 0.0035373859015044805
+    },
+    {
+        "trial_id": 5,
+        "params": {
+            "n_cross_layers": 6,
+            "n_hidden_layers": 3,
+            "layer_size": 343,
+            "hidden_dropout": 0.00440210462491919,
+            "cross_dropout": 0.3980314181477746,
+            "lr": 0.0005449830203447779,
+            "weight_decay": 2.4535332887639953e-06,
+            "d_embedding": 146
+        },
+        "test_mean_accuarcy": 0.7058896120698234,
+        "test_std_accuarcy": 0.0040123074878363205
+    }
+]

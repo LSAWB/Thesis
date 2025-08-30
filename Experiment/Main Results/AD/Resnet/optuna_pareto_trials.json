@@ -1,0 +1,80 @@
+[
+    {
+        "train_max_acc": 0.8594133906633906,
+        "valid_max_acc": 0.8483033932135728,
+        "params": {
+            "n_blocks": 3,
+            "d_block": 290,
+            "hidden_factor": 3.4269379521954777,
+            "residual_dropout": 0.09432691971888851,
+            "hidden_dropout": 0.18966956834092313,
+            "lr": 3.3151043718297396e-05,
+            "weight_decay": 2.600124515548615e-06
+        }
+    },
+    {
+        "train_max_acc": 0.8567644348894349,
+        "valid_max_acc": 0.849531705819131,
+        "params": {
+            "n_blocks": 1,
+            "d_block": 464,
+            "hidden_factor": 2.130782611390813,
+            "residual_dropout": 0.08377108997730881,
+            "hidden_dropout": 0.40392436225810247,
+            "lr": 0.004971698419244659,
+            "weight_decay": 8.714162417828492e-05
+        }
+    },
+    {
+        "train_max_acc": 0.8513129606879607,
+        "valid_max_acc": 0.8513741747274681,
+        "params": {
+            "n_blocks": 7,
+            "d_block": 335,
+            "hidden_factor": 2.021916936979079,
+            "residual_dropout": 0.40140747673731947,
+            "hidden_dropout": 0.013341638150913215,
+            "lr": 0.0002671941997033575,
+            "weight_decay": 2.4734737273321667e-06
+        }
+    },
+    {
+        "train_max_acc": 0.8588759213759214,
+        "valid_max_acc": 0.8487640104406572,
+        "params": {
+            "n_blocks": 4,
+            "d_block": 217,
+            "hidden_factor": 2.0638470063474896,
+            "residual_dropout": 0.20548473473917228,
+            "hidden_dropout": 0.17479197422946463,
+            "lr": 9.06201409999184e-05,
+            "weight_decay": 3.5070023276654965e-06
+        }
+    },
+    {
+        "train_max_acc": 0.8545377764127764,
+        "valid_max_acc": 0.8509135575003839,
+        "params": {
+            "n_blocks": 7,
+            "d_block": 437,
+            "hidden_factor": 2.733175318311796,
+            "residual_dropout": 0.3669000350653346,
+            "hidden_dropout": 0.20900834415252612,
+            "lr": 0.00029747160638718244,
+            "weight_decay": 1.605636765497048e-05
+        }
+    },
+    {
+        "train_max_acc": 0.8548832923832924,
+        "valid_max_acc": 0.8502994011976048,
+        "params": {
+            "n_blocks": 4,
+            "d_block": 261,
+            "hidden_factor": 1.7503721246418509,
+            "residual_dropout": 0.4664072546545754,
+            "hidden_dropout": 0.16108688033372937,
+            "lr": 0.0006878509240424331,
+            "weight_decay": 0.0008203702791514751
+        }
+    }
+]

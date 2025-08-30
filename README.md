@@ -80,7 +80,7 @@ For XDEAT, the workflow is similar:
   - Its `.py` script does **not** automatically load `optuna_pareto_trials.json`.  
 
 ### 🏆 Final Results
-![](Thesis/Tables/Main_Results.png)
+![](Tables/Main_Results.png)
 
 ---
 ### Target Encoding
@@ -102,8 +102,8 @@ Within each dataset, you will find:
 - `XGBoost.py`  
 
 ### 🏆 Final Results ( FT-Transformer & XGBoost )
-![](Thesis/Tables/FTTransformer_Target_Encoding.png)
-![](Thesis/Tables/XGBoost_Target_Encoding.png)
+![](Tables/FTTransformer_Target_Encoding.png)
+![](Tables/XGBoost_Target_Encoding.png)
 
 ---
 ### 🧩 Binning
@@ -131,7 +131,7 @@ python main.py
 ```
 
 ### 🏆 Final Results
-![](Thesis/Tables/Binning.png)
+![](Tables/Binning.png)
 
 ---
 ### 🔀 Model Variants
@@ -153,5 +153,5 @@ python ablation.py
 ```
 
 ### 🏆 Final Results
-![](Thesis/Tables/Model_Variants.png)
+![](Tables/Model_Variants.png)
 

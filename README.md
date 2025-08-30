@@ -21,7 +21,7 @@ XDEAT-Tabular-Learning/
 ├── Experiment/                   
 │ ├── Main Results/                 # Benchmark Models & XDEAT
 │ ├── Target Encoding/              # FT-Transformer / XGBoost with Various Target Encoding
-│ ├── Binning/                      # Comparson of Binning Technique on Numerical Features 
+│ ├── Binning/                      # Comparison of Binning Technique on Numerical Features 
 │ └── Model Variants/               # Various Model Archetictures
 │ └── requirements.txt              # Required Packages
 │
@@ -34,7 +34,7 @@ XDEAT-Tabular-Learning/
 
 ## 📊 Experiments
 ### 🏆 Main Results
-We use **five datasets**: `AD`, `CA`, `HI`, `HA`, and `KDD`.  
+We use **five datasets**: `AD`, `CA`, `HI`, `JA`, and `KDD`.  
 The corresponding code is located in **`Thesis/Experiment/Main Results/`**.  
 
 For each dataset, we evaluate:  
